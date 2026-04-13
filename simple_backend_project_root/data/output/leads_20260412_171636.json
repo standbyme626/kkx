@@ -1,0 +1,114 @@
+[
+  {
+    "company_name": "Puckator",
+    "website": "https://www.puckator.co.uk/",
+    "country": "UK",
+    "industry": "Wholesale",
+    "business_scope": "Puckator is a UK-based wholesale supplier of gifts, homeware and licensed giftware. We supply independent shops, garden centres, museum stores and online ...",
+    "evidence_urls": [
+      "https://www.puckator.co.uk/"
+    ],
+    "decision_makers": [
+      "Paola Trucco"
+    ],
+    "decision_maker_titles": [
+      "Buyer at"
+    ],
+    "contacts": [],
+    "emails": [],
+    "linkedin_urls": [],
+    "total_score": 7.0,
+    "grade": "B",
+    "score_breakdown": {
+      "market_fit": 4,
+      "customer_type_fit": 1,
+      "decision_contact_fit": 1,
+      "website_validity": 1
+    },
+    "secondary_search_ran": true,
+    "secondary_search_status": "completed",
+    "query_hits": 12,
+    "grade_reason": "评分 7.0，市场匹配 4分，客户类型 1分",
+    "key_signals": [
+      "market_fit:4",
+      "customer_type_fit:1",
+      "decision_contact_fit:1"
+    ],
+    "risk_notes": [],
+    "next_action": "继续背调 - 找采购负责人并发资料",
+    "priority": "medium",
+    "email_draft": null
+  },
+  {
+    "company_name": "Gainsborough Giftware Ltd",
+    "website": "https://www.gainsboroughgiftware.com/",
+    "country": "UK",
+    "industry": "Wholesale",
+    "business_scope": "Gainsborough Giftware are distributors of wholesale gifts, giftware and homeware across UK mainland, Scotland, Ireland and Europe.",
+    "evidence_urls": [
+      "https://www.gainsboroughgiftware.com/"
+    ],
+    "decision_makers": [],
+    "decision_maker_titles": [],
+    "contacts": [],
+    "emails": [],
+    "linkedin_urls": [],
+    "total_score": 6.0,
+    "grade": "B",
+    "score_breakdown": {
+      "market_fit": 4,
+      "customer_type_fit": 1,
+      "decision_contact_fit": 0,
+      "website_validity": 1
+    },
+    "secondary_search_ran": true,
+    "secondary_search_status": "no_hit",
+    "query_hits": 10,
+    "grade_reason": "评分 6.0，市场匹配 4分，客户类型 1分",
+    "key_signals": [
+      "market_fit:4",
+      "customer_type_fit:1",
+      "website_validity:1"
+    ],
+    "risk_notes": [],
+    "next_action": "继续背调 - 找采购负责人并发资料",
+    "priority": "medium",
+    "email_draft": null
+  },
+  {
+    "company_name": "The Gift Wholesaler",
+    "website": "https://www.thegiftwholesaler.co.uk/",
+    "country": "UK",
+    "industry": "Wholesale",
+    "business_scope": "Looking for the perfect gift? The Gift Wholesaler has you covered! We specialize in gifts to cater for the whole family, from quirky items to toys to ...",
+    "evidence_urls": [
+      "https://www.thegiftwholesaler.co.uk/"
+    ],
+    "decision_makers": [],
+    "decision_maker_titles": [],
+    "contacts": [],
+    "emails": [],
+    "linkedin_urls": [],
+    "total_score": 6.0,
+    "grade": "B",
+    "score_breakdown": {
+      "market_fit": 4,
+      "customer_type_fit": 1,
+      "decision_contact_fit": 0,
+      "website_validity": 1
+    },
+    "secondary_search_ran": true,
+    "secondary_search_status": "no_hit",
+    "query_hits": 9,
+    "grade_reason": "评分 6.0，市场匹配 4分，客户类型 1分",
+    "key_signals": [
+      "market_fit:4",
+      "customer_type_fit:1",
+      "website_validity:1"
+    ],
+    "risk_notes": [],
+    "next_action": "继续背调 - 找采购负责人并发资料",
+    "priority": "medium",
+    "email_draft": null
+  }
+]

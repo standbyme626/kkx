@@ -1,0 +1,37 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(curl *)",
+      "Bash(pkill *)",
+      "Bash(sleep *)",
+      "Bash(nohup *)",
+      "Bash(python *)",
+      "Bash(cat *)",
+      "Bash(python3 *)",
+      "Bash(cp *)",
+      "Bash(kill *)",
+      "Bash(timeout *)",
+      "Bash(npx *)",
+      "Bash(mkdir *)",
+      "Bash(find *)",
+      "Bash(ln *)",
+      "Bash(rm *)",
+      "Bash(do *)",
+      "Bash(true)",
+      "Bash(done)",
+      "Bash(touch *)",
+      "Bash(grep *)",
+      "Bash(git status)",
+      "Bash(tail *)",
+      "Bash(xargs *)",
+      "Bash(git init)",
+      "Bash(git remote *)",
+      "Bash(git add *)",
+      "Bash(git commit *)",
+      "Bash(git rm *)",
+      "Bash(git submodule *)",
+      "Bash(git reset *)"
+    ]
+  },
+  "$version": 3
+}

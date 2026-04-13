@@ -1,0 +1,56 @@
+{
+  "grade_system": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "thresholds": {
+    "A": ">=8",
+    "B": "5-7",
+    "C": "2-4",
+    "D": "<2"
+  },
+  "dimensions": [
+    {
+      "name": "market_fit",
+      "description": "市场匹配（UK/AU优先）",
+      "weight": 4
+    },
+    {
+      "name": "customer_type_fit",
+      "description": "客户类型匹配（retail/promotional/wholesale）",
+      "weight": 3
+    },
+    {
+      "name": "decision_contact_fit",
+      "description": "决策人与联系方式完整度",
+      "weight": 2
+    },
+    {
+      "name": "website_validity",
+      "description": "官网可核验",
+      "weight": 1
+    }
+  ],
+  "next_action_map": {
+    "A": "立即重点跟进 - LinkedIn联系+发开发信",
+    "B": "继续背调 - 找采购负责人并发资料",
+    "C": "进入培育池 - 定期跟进并补充证据",
+    "D": "暂不优先处理 - 归档观察"
+  },
+  "priority_map": {
+    "A": "high",
+    "B": "medium",
+    "C": "low",
+    "D": "low"
+  },
+  "exclusion_hints": [
+    "price-only wholesaler",
+    "job board",
+    "recruitment page",
+    "blank mug buyer",
+    "tiny order under 1000"
+  ],
+  "data_source": "SWSAGE_导航系统.pdf + demo_v3 rules"
+}

@@ -1,0 +1,248 @@
+[
+  {
+    "company_name": "Total Merchandise",
+    "website": "https://www.totalmerchandise.co.uk/?srsltid=AfmBOorTO_Y8h-tlDIpgbduktDqLyQzR4Drg43Zd5y3E0laNSJD32vvc",
+    "country": "UK",
+    "industry": "Promotional",
+    "business_scope": "Founded in 2004, Total Merchandise is one of the UK's leading suppliers of promotional merchandise printed with your company logo and marketing message.",
+    "evidence_urls": [
+      "https://www.totalmerchandise.co.uk/?srsltid=AfmBOorTO_Y8h-tlDIpgbduktDqLyQzR4Drg43Zd5y3E0laNSJD32vvc"
+    ],
+    "decision_makers": [
+      "Adam Carter",
+      "Merchandise Ltd"
+    ],
+    "decision_maker_titles": [
+      "Head of",
+      "LinkedIn Head"
+    ],
+    "contacts": [],
+    "emails": [],
+    "linkedin_urls": [],
+    "total_score": 9.0,
+    "grade": "A",
+    "score_breakdown": {
+      "market_fit": 4,
+      "customer_type_fit": 3,
+      "decision_contact_fit": 1,
+      "website_validity": 1
+    },
+    "secondary_search_ran": true,
+    "secondary_search_status": "completed",
+    "query_hits": 12,
+    "grade_reason": "高匹配度客户：目标市场（UK）与公司战略完全一致，客户类型（Promotional Products Company）精准契合产品定位，决策人信息明确且官网有效验证业务真实性。",
+    "key_signals": [
+      "UK市场与目标区域完全重合",
+      "促销产品行业与公司产品线高度协同",
+      "决策人职位明确且官网业务描述清晰"
+    ],
+    "risk_notes": [
+      "需确认决策链中是否存在更高层级审批人",
+      "需验证年度采购预算规模"
+    ],
+    "next_action": "48小时内发送定制化开发信，附陶瓷杯/不锈钢杯样品政策及主题礼品套装案例，同步安排视频会议演示DTF打样能力",
+    "priority": "high",
+    "email_draft": "Subject: Premium Custom Drinkware Solutions for Total Merchandise\n\nDear Adam,\n\nAs a UK-based promotional leader since 2004, you understand the value of consistent branding across materials. At SWSAGE/WELP, we specialize in cross-material artwork consistency for mugs, tumblers, and gift sets with 15-day lead times.\n\nOur in-house DTF sampling allows rapid prototype validation for your campaigns. Could we schedule a 15-min call next week to discuss your Q4 promotional needs?\n\nBest regards,\n[Your Name]\nSWSAGE/WELP Global Sales"
+  },
+  {
+    "company_name": "Promotional Products, Items, and Gifts London",
+    "website": "https://www.gopromotional.co.uk/london",
+    "country": "UK",
+    "industry": "Promotional",
+    "business_scope": "GoPromotional The UK's Leading Promotional Products & Branded Merchandise Suppliers. We'd love to hear from you! 0800 0148 970. hello@gopromotional.co.uk.",
+    "evidence_urls": [
+      "https://www.gopromotional.co.uk/london"
+    ],
+    "decision_makers": [],
+    "decision_maker_titles": [],
+    "contacts": [],
+    "emails": [],
+    "linkedin_urls": [],
+    "total_score": 8.0,
+    "grade": "A",
+    "score_breakdown": {
+      "market_fit": 4,
+      "customer_type_fit": 3,
+      "decision_contact_fit": 0,
+      "website_validity": 1
+    },
+    "secondary_search_ran": true,
+    "secondary_search_status": "no_hit",
+    "query_hits": 1,
+    "grade_reason": "客户为英国促销产品公司，与公司目标市场（UK）及客户类型（promotional products company）高度匹配。官网有效且业务描述清晰，但决策人信息缺失影响联系效率。",
+    "key_signals": [
+      "客户业务与公司促销产品定位完全契合",
+      "官网显示为英国领先促销供应商，采购潜力大"
+    ],
+    "risk_notes": [
+      "未明确采购决策人职位及联系方式"
+    ],
+    "next_action": "通过LinkedIn/官网挖掘采购负责人信息，发送定制化样品方案+跨材质设计案例，强调48小时打样能力",
+    "priority": "high",
+    "email_draft": "Subject: Premium Custom Giftware Solutions for GoPromotional\n\nDear Procurement Team,\n\nAs a UK-leading promotional supplier, you deserve partners who deliver consistency across materials. SWSAGE specializes in:\n✓ Cross-material artwork matching (ceramic/metal/cork)\n✓ 15-day production for 10K+ units\n✓ In-house DTF sampling (48hrs)\n\nAttached: Themed giftware catalog with MOQ 500pcs\n\nWhen can we schedule a 15-min call to discuss your Q4 campaign needs?\n\nBest regards,\n[Your Name]\nSWSAGE OEM Manager"
+  },
+  {
+    "company_name": "Puckator",
+    "website": "https://www.puckator.co.uk/",
+    "country": "UK",
+    "industry": "Wholesale",
+    "business_scope": "Puckator is a UK-based wholesale supplier of gifts, homeware and licensed giftware. We supply independent shops, garden centres, museum stores and online ...",
+    "evidence_urls": [
+      "https://www.puckator.co.uk/"
+    ],
+    "decision_makers": [
+      "Paola Trucco"
+    ],
+    "decision_maker_titles": [
+      "Buyer at"
+    ],
+    "contacts": [],
+    "emails": [],
+    "linkedin_urls": [],
+    "total_score": 7.0,
+    "grade": "B",
+    "score_breakdown": {
+      "market_fit": 4,
+      "customer_type_fit": 1,
+      "decision_contact_fit": 1,
+      "website_validity": 1
+    },
+    "secondary_search_ran": true,
+    "secondary_search_status": "completed",
+    "query_hits": 12,
+    "grade_reason": "市场匹配度高（英国为目标市场），但客户类型匹配度较低（批发商非核心目标客户类型），决策人信息有效但需进一步验证权限，官网存在但需评估活跃度",
+    "key_signals": [
+      "UK市场与目标区域完全匹配",
+      "批发业务与公司目标客户类型部分重合"
+    ],
+    "risk_notes": [
+      "客户类型匹配度评分低需确认产品需求契合度",
+      "决策人权限需通过沟通验证"
+    ],
+    "next_action": "发送定制化产品目录并请求15分钟需求对接会议，重点展示跨材质主题礼品方案",
+    "priority": "medium",
+    "email_draft": "Subject: One-Stop Themed Giftware Solutions for Puckator\n\nDear Paola,\n\nSWSAGE/WELP specializes in cross-material giftware (ceramic/stainless/cork) with DTF sampling capabilities. Our UK clients achieve 30% faster time-to-market through our themed collections.\n\nCould we schedule a brief call to explore how our OEM/ODM services align with Puckator's licensed giftware range? Attached is our seasonal catalog for review.\n\nBest regards,\n[Your Name]\nSWSAGE/WELP"
+  },
+  {
+    "company_name": "Gifts",
+    "website": "https://www.therange.co.uk/stationery/souvenirs-and-gifts/gifts/",
+    "country": "UK",
+    "industry": "Giftware",
+    "business_scope": "Full of great ideas to spoil your loved ones, check out our collection of gifts for any occasion at The Range.",
+    "evidence_urls": [
+      "https://www.therange.co.uk/stationery/souvenirs-and-gifts/gifts/"
+    ],
+    "decision_makers": [
+      "Lisa Morris",
+      "Christine Lumley",
+      "Samantha Eliszewski"
+    ],
+    "decision_maker_titles": [
+      "Senior Buyer",
+      "Senior Buyer",
+      "Buyer"
+    ],
+    "contacts": [],
+    "emails": [],
+    "linkedin_urls": [],
+    "total_score": 7.0,
+    "grade": "B",
+    "score_breakdown": {
+      "market_fit": 4,
+      "customer_type_fit": 1,
+      "decision_contact_fit": 1,
+      "website_validity": 1
+    },
+    "secondary_search_ran": true,
+    "secondary_search_status": "completed",
+    "query_hits": 12,
+    "grade_reason": "市场匹配度较高（目标市场包含英国），但客户类型匹配度低（客户为综合零售商而非专业礼品采购商），决策人信息完整度不足，官网有效性一般（仅展示部分产品页面）",
+    "key_signals": [
+      "客户官网明确展示礼品品类且与公司产品线高度重合",
+      "英国市场与公司目标市场完全匹配"
+    ],
+    "risk_notes": [
+      "客户类型偏向终端零售而非批发采购，可能影响订单规模",
+      "官网未显示采购部门联系方式，决策链不透明"
+    ],
+    "next_action": "通过领英联系决策人，发送定制化产品目录并强调跨材质设计一致性优势，提议提供主题礼品套装样品",
+    "priority": "medium",
+    "email_draft": "Subject: Premium Giftware Solutions for The Range's Seasonal Collections\n\nDear Lisa/Christine/Samantha,\n\nNoticed The Range's impressive gift selection at [URL]. As specialists in coordinated ceramic/stainless/cork giftware with 15-day sampling, we help retailers like yours create themed collections with consistent artwork across materials.\n\nCould we share our Valentine's Day ready-to-ship range? Our DTF sampling allows 48-hour design proofs for your approval.\n\nBest regards,\n[Your Name]\nSWSAGE/WELP"
+  },
+  {
+    "company_name": "Gainsborough Giftware Ltd",
+    "website": "https://www.gainsboroughgiftware.com/",
+    "country": "UK",
+    "industry": "Wholesale",
+    "business_scope": "Wholesale gift supplier based in the UK with over 4000 in stock competitively priced wholesale gifts and homeware products from the leading UK and European ...",
+    "evidence_urls": [
+      "https://www.gainsboroughgiftware.com/"
+    ],
+    "decision_makers": [],
+    "decision_maker_titles": [],
+    "contacts": [],
+    "emails": [],
+    "linkedin_urls": [],
+    "total_score": 6.0,
+    "grade": "B",
+    "score_breakdown": {
+      "market_fit": 4,
+      "customer_type_fit": 1,
+      "decision_contact_fit": 0,
+      "website_validity": 1
+    },
+    "secondary_search_ran": true,
+    "secondary_search_status": "no_hit",
+    "query_hits": 10,
+    "grade_reason": "客户位于目标市场 UK 且业务匹配礼品批发，但客户类型与目标客户类型（如零售连锁/电商）匹配度较低，且缺乏决策人信息。官网有效但业务描述较泛。",
+    "key_signals": [
+      "英国本土批发商符合目标市场",
+      "4000+ 库存产品显示采购需求潜力"
+    ],
+    "risk_notes": [
+      "未明确决策人联系方式",
+      "批发商类型与目标客户类型存在部分偏差"
+    ],
+    "next_action": "通过官网联系表单获取采购负责人信息，发送定制化样品方案（突出跨材质图案一致性优势），强调 15 天快速交货能力",
+    "priority": "medium",
+    "email_draft": "Subject: Premium Giftware Solutions for Gainsborough Giftware\n\nDear Procurement Team,\n\nSWSAGE/WELP specializes in cross-material giftware (ceramic mugs, stainless steel tumblers, cork placemats) with consistent artwork customization. Our UK clients benefit from:\n- 15-day lead time for OEM orders\n- In-house DTF sampling for themed collections\n- MOQ flexibility for wholesale partners\n\nCould we schedule a 15-min call to discuss how our 400+ new designs can complement your existing range?\n\nBest regards,\n[Your Name]\nBusiness Development Manager\nSWSAGE/WELP"
+  },
+  {
+    "company_name": "The Gift Wholesaler",
+    "website": "https://www.thegiftwholesaler.co.uk/",
+    "country": "UK",
+    "industry": "Wholesale",
+    "business_scope": "Looking for the perfect gift? The Gift Wholesaler has you covered! We specialize in gifts to cater for the whole family, from quirky items to toys to ...",
+    "evidence_urls": [
+      "https://www.thegiftwholesaler.co.uk/"
+    ],
+    "decision_makers": [],
+    "decision_maker_titles": [],
+    "contacts": [],
+    "emails": [],
+    "linkedin_urls": [],
+    "total_score": 6.0,
+    "grade": "B",
+    "score_breakdown": {
+      "market_fit": 4,
+      "customer_type_fit": 1,
+      "decision_contact_fit": 0,
+      "website_validity": 1
+    },
+    "secondary_search_ran": true,
+    "secondary_search_status": "no_hit",
+    "query_hits": 9,
+    "grade_reason": "客户市场匹配度较高（UK 目标市场），但客户类型匹配度一般（批发商非核心目标客户），且缺乏决策人联系信息。官网信息完整度不足影响信任度评估。",
+    "key_signals": [
+      "业务范围与公司产品高度相关（礼品批发）",
+      "官网存在但决策人信息缺失"
+    ],
+    "risk_notes": [
+      "决策链不透明可能导致沟通效率低下",
+      "官网产品信息展示有限影响合作信心"
+    ],
+    "next_action": "1.通过 LinkedIn 挖掘采购决策人 2.发送样品目录突出跨材质定制优势 3.强调 15 天快速打样能力",
+    "priority": "medium",
+    "email_draft": "Subject: Premium Giftware Solutions for The Gift Wholesaler\n\nDear Procurement Team,\n\nSWSAGE/WELP specializes in cross-material giftware production with 30% faster lead times than industry average. Our UK clients benefit from:\n- Themed collections (ceramic/stainless/cork)\n- In-house DTF sampling within 72hrs\n- MOQ flexibility for seasonal ranges\n\nCould we schedule a 15-min call to discuss your Q4 gift program requirements? We're prepared to share case studies from similar UK wholesalers.\n\nBest regards,\n[Your Name]\nBusiness Development Manager\nSWSAGE/WELP"
+  }
+]
