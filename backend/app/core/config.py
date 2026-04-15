@@ -1,5 +1,12 @@
 """最小配置 - 供所有 provider 使用"""
 import os
+from pathlib import Path
+
+from dotenv import load_dotenv
+
+# 统一优先读取共享配置，确保 provider 独立导入时也能拿到环境变量
+load_dotenv(Path("/home/test/kkk/.env"))
+load_dotenv(Path(__file__).resolve().parents[2] / ".env")
 
 
 class _Settings:

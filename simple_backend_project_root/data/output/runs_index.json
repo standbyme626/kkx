@@ -816,6 +816,272 @@
       "feishu_sync_error": null,
       "failed_stage": null,
       "failed_agent": null
+    },
+    "5ec028feae66": {
+      "run_id": "5ec028feae66",
+      "run_name": "客户表_04-14_15-58-56",
+      "status": "completed",
+      "created_at": "2026-04-14T15:59:00.112540",
+      "params": {
+        "profile": "/home/test/kkk/kkx/simple_backend_project_root/../backend/data/profiles/swsage_company_profile_v3.json",
+        "rules": "/home/test/kkk/kkx/simple_backend_project_root/../backend/data/profiles/swsage_grading_rules_v3.json",
+        "max_leads": 10,
+        "use_llm_queries": true,
+        "use_llm_actions": true,
+        "output_feishu": true
+      },
+      "output_file": "/home/test/kkk/kkx/data/output/leads_20260414_155929.json",
+      "summary": {
+        "total": 14,
+        "grade_counts": {
+          "A": 0,
+          "B": 3,
+          "C": 3,
+          "D": 8
+        },
+        "a_count": 0,
+        "b_count": 3,
+        "c_count": 3,
+        "d_count": 8
+      },
+      "error": null,
+      "stdout": "",
+      "stderr": "",
+      "feishu_table_name": "客户表_04-14_15-58-56",
+      "feishu_table_id": "tblVivFOj7a42rAL",
+      "feishu_table_url": "https://ucnbpuwjqx0m.feishu.cn/base/DeUibT5N9aKMKds7lyqcv3a6nib?table=tblVivFOj7a42rAL",
+      "feishu_sync_status": "已完成",
+      "feishu_sync_error": null,
+      "failed_stage": null,
+      "failed_agent": null
+    },
+    "760513dc649f": {
+      "run_id": "760513dc649f",
+      "run_name": "客户表_04-14_17-20-31",
+      "status": "completed",
+      "created_at": "2026-04-14T17:20:35.725620",
+      "params": {
+        "profile": "/home/test/kkk/kkx/simple_backend_project_root/../backend/data/profiles/swsage_company_profile_v3.json",
+        "rules": "/home/test/kkk/kkx/simple_backend_project_root/../backend/data/profiles/swsage_grading_rules_v3.json",
+        "max_leads": 10,
+        "use_llm_queries": true,
+        "use_llm_actions": true,
+        "output_feishu": true
+      },
+      "output_file": "/home/test/kkk/kkx/data/output/leads_20260414_172207.json",
+      "summary": {
+        "total": 14,
+        "grade_counts": {
+          "A": 1,
+          "B": 3,
+          "C": 3,
+          "D": 7
+        },
+        "a_count": 1,
+        "b_count": 3,
+        "c_count": 3,
+        "d_count": 7
+      },
+      "error": null,
+      "stdout": "",
+      "stderr": "",
+      "feishu_table_name": "客户表_04-14_17-20-31",
+      "feishu_table_id": "tblnWFRdPDH1Jj0F",
+      "feishu_table_url": "https://ucnbpuwjqx0m.feishu.cn/base/DeUibT5N9aKMKds7lyqcv3a6nib?table=tblnWFRdPDH1Jj0F",
+      "feishu_sync_status": "已完成",
+      "feishu_sync_error": null,
+      "failed_stage": null,
+      "failed_agent": null
+    },
+    "121d970ab3bd": {
+      "run_id": "121d970ab3bd",
+      "run_name": "客户表_04-14_17-39-50",
+      "status": "completed",
+      "created_at": "2026-04-14T17:39:55.715132",
+      "params": {
+        "profile": "/home/test/kkk/kkx/simple_backend_project_root/../backend/data/profiles/swsage_company_profile_v3.json",
+        "rules": "/home/test/kkk/kkx/simple_backend_project_root/../backend/data/profiles/swsage_grading_rules_v3.json",
+        "max_leads": 10,
+        "use_llm_queries": true,
+        "use_llm_actions": true,
+        "output_feishu": true
+      },
+      "output_file": "/home/test/kkk/kkx/data/output/leads_20260414_174121.json",
+      "summary": {
+        "total": 14,
+        "grade_counts": {
+          "A": 1,
+          "B": 4,
+          "C": 2,
+          "D": 7
+        },
+        "a_count": 1,
+        "b_count": 4,
+        "c_count": 2,
+        "d_count": 7
+      },
+      "error": null,
+      "stdout": "",
+      "stderr": "",
+      "feishu_table_name": "客户表_04-14_17-39-50",
+      "feishu_table_id": "tblu2uW0OjSKMTAO",
+      "feishu_table_url": "https://ucnbpuwjqx0m.feishu.cn/base/DeUibT5N9aKMKds7lyqcv3a6nib?table=tblu2uW0OjSKMTAO",
+      "feishu_sync_status": "已完成",
+      "feishu_sync_error": null,
+      "failed_stage": null,
+      "failed_agent": null
+    },
+    "db1a95d98a5d": {
+      "run_id": "db1a95d98a5d",
+      "run_name": "客户表_04-14_18-36-17",
+      "status": "completed",
+      "created_at": "2026-04-14T18:36:21.234317",
+      "params": {
+        "profile": "/home/test/kkk/kkx/simple_backend_project_root/../backend/data/profiles/swsage_company_profile_v3.json",
+        "rules": "/home/test/kkk/kkx/simple_backend_project_root/../backend/data/profiles/swsage_grading_rules_v3.json",
+        "max_leads": 10,
+        "use_llm_queries": true,
+        "use_llm_actions": true,
+        "output_feishu": true
+      },
+      "output_file": "/home/test/kkk/kkx/data/output/leads_20260414_183717.json",
+      "summary": {
+        "total": 15,
+        "grade_counts": {
+          "A": 1,
+          "B": 3,
+          "C": 3,
+          "D": 8
+        },
+        "a_count": 1,
+        "b_count": 3,
+        "c_count": 3,
+        "d_count": 8
+      },
+      "error": null,
+      "stdout": "",
+      "stderr": "",
+      "feishu_table_name": "客户表_04-14_18-36-17",
+      "feishu_table_id": "tbliZhQZUqdo1Y1q",
+      "feishu_table_url": "https://ucnbpuwjqx0m.feishu.cn/base/DeUibT5N9aKMKds7lyqcv3a6nib?table=tbliZhQZUqdo1Y1q",
+      "feishu_sync_status": "已完成",
+      "feishu_sync_error": null,
+      "failed_stage": null,
+      "failed_agent": null
+    },
+    "b7cec3713cf2": {
+      "run_id": "b7cec3713cf2",
+      "run_name": "客户表_04-14_18-45-19",
+      "status": "completed",
+      "created_at": "2026-04-14T18:45:23.530782",
+      "params": {
+        "profile": "/home/test/kkk/kkx/simple_backend_project_root/../backend/data/profiles/swsage_company_profile_v3.json",
+        "rules": "/home/test/kkk/kkx/simple_backend_project_root/../backend/data/profiles/swsage_grading_rules_v3.json",
+        "max_leads": 10,
+        "use_llm_queries": true,
+        "use_llm_actions": true,
+        "output_feishu": true
+      },
+      "output_file": "/home/test/kkk/kkx/data/output/leads_20260414_184634.json",
+      "summary": {
+        "total": 14,
+        "grade_counts": {
+          "A": 0,
+          "B": 4,
+          "C": 3,
+          "D": 7
+        },
+        "a_count": 0,
+        "b_count": 4,
+        "c_count": 3,
+        "d_count": 7
+      },
+      "error": null,
+      "stdout": "",
+      "stderr": "",
+      "feishu_table_name": "客户表_04-14_18-45-19",
+      "feishu_table_id": "tblLZzcXAx9GYIjm",
+      "feishu_table_url": "https://ucnbpuwjqx0m.feishu.cn/base/DeUibT5N9aKMKds7lyqcv3a6nib?table=tblLZzcXAx9GYIjm",
+      "feishu_sync_status": "已完成",
+      "feishu_sync_error": null,
+      "failed_stage": null,
+      "failed_agent": null
+    },
+    "dd8f032152f8": {
+      "run_id": "dd8f032152f8",
+      "run_name": "客户表_04-14_20-59-36",
+      "status": "completed",
+      "created_at": "2026-04-14T20:59:41.168861",
+      "params": {
+        "profile": "/home/test/kkk/kkx/simple_backend_project_root/../backend/data/profiles/swsage_company_profile_v3.json",
+        "rules": "/home/test/kkk/kkx/simple_backend_project_root/../backend/data/profiles/swsage_grading_rules_v3.json",
+        "max_leads": 10,
+        "use_llm_queries": true,
+        "use_llm_actions": true,
+        "output_feishu": true
+      },
+      "output_file": "/home/test/kkk/kkx/data/output/leads_20260414_210118.json",
+      "summary": {
+        "total": 12,
+        "grade_counts": {
+          "A": 0,
+          "B": 3,
+          "C": 3,
+          "D": 6
+        },
+        "a_count": 0,
+        "b_count": 3,
+        "c_count": 3,
+        "d_count": 6
+      },
+      "error": null,
+      "stdout": "",
+      "stderr": "",
+      "feishu_table_name": "客户表_04-14_20-59-36",
+      "feishu_table_id": "tblkddXNp5wSAHFT",
+      "feishu_table_url": "https://ucnbpuwjqx0m.feishu.cn/base/DeUibT5N9aKMKds7lyqcv3a6nib?table=tblkddXNp5wSAHFT",
+      "feishu_sync_status": "已完成",
+      "feishu_sync_error": null,
+      "failed_stage": null,
+      "failed_agent": null
+    },
+    "5e20bb809761": {
+      "run_id": "5e20bb809761",
+      "run_name": "客户表_04-14_23-14-35",
+      "status": "completed",
+      "created_at": "2026-04-14T23:14:40.427896",
+      "params": {
+        "profile": "/home/test/kkk/kkx/simple_backend_project_root/../backend/data/profiles/swsage_company_profile_v3.json",
+        "rules": "/home/test/kkk/kkx/simple_backend_project_root/../backend/data/profiles/swsage_grading_rules_v3.json",
+        "max_leads": 10,
+        "use_llm_queries": true,
+        "use_llm_actions": true,
+        "output_feishu": true
+      },
+      "output_file": "/home/test/kkk/kkx/data/output/leads_20260414_231642.json",
+      "summary": {
+        "total": 12,
+        "grade_counts": {
+          "A": 0,
+          "B": 3,
+          "C": 2,
+          "D": 7
+        },
+        "a_count": 0,
+        "b_count": 3,
+        "c_count": 2,
+        "d_count": 7
+      },
+      "error": null,
+      "stdout": "",
+      "stderr": "",
+      "feishu_table_name": "客户表_04-14_23-14-35",
+      "feishu_table_id": "tbljKy1lfR9SsYlu",
+      "feishu_table_url": "https://ucnbpuwjqx0m.feishu.cn/base/DeUibT5N9aKMKds7lyqcv3a6nib?table=tbljKy1lfR9SsYlu",
+      "feishu_sync_status": "已完成",
+      "feishu_sync_error": null,
+      "failed_stage": null,
+      "failed_agent": null
     }
   }
 }

@@ -2,8 +2,9 @@ import os
 from pathlib import Path
 from dotenv import load_dotenv
 
-# 加载 .env（优先项目 backend/.env，其次本目录 .env）
+# 加载 .env（优先共享 /home/test/kkk/.env，其次 backend/.env，再其次本目录 .env）
 BASE_DIR = Path(__file__).parent
+load_dotenv(Path("/home/test/kkk/.env"))
 load_dotenv(BASE_DIR.parent / "backend" / ".env")
 load_dotenv(BASE_DIR / ".env")
 
